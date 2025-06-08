@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54ffe78b.css",
+    "main.js": "/static/js/main.a0d79ab5.js",
+    "static/js/453.84420719.chunk.js": "/static/js/453.84420719.chunk.js",
+    "static/media/ishraq.jpg": "/static/media/ishraq.13c28e3472f7daa89b31.jpg",
+    "static/media/tanzin.jpg": "/static/media/tanzin.456b6d61ab5434eb6f92.jpg",
+    "static/media/landingpage.jpg": "/static/media/landingpage.6e1188a0bdc9d721230a.jpg",
+    "static/media/seo.jpg": "/static/media/seo.deb99ce78b166d77b34d.jpg",
+    "index.html": "/index.html",
+    "main.54ffe78b.css.map": "/static/css/main.54ffe78b.css.map",
+    "main.a0d79ab5.js.map": "/static/js/main.a0d79ab5.js.map",
+    "453.84420719.chunk.js.map": "/static/js/453.84420719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ffe78b.css",
+    "static/js/main.a0d79ab5.js"
+  ]
+}
