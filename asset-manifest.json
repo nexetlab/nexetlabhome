@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/nexetlabhome/static/css/main.54ffe78b.css",
+    "main.js": "/nexetlabhome/static/js/main.f4428931.js",
+    "static/js/453.84420719.chunk.js": "/nexetlabhome/static/js/453.84420719.chunk.js",
+    "static/media/ishraq.jpg": "/nexetlabhome/static/media/ishraq.13c28e3472f7daa89b31.jpg",
+    "static/media/tanzin.jpg": "/nexetlabhome/static/media/tanzin.456b6d61ab5434eb6f92.jpg",
+    "static/media/landingpage.jpg": "/nexetlabhome/static/media/landingpage.6e1188a0bdc9d721230a.jpg",
+    "static/media/seo.jpg": "/nexetlabhome/static/media/seo.deb99ce78b166d77b34d.jpg",
+    "index.html": "/nexetlabhome/index.html",
+    "main.54ffe78b.css.map": "/nexetlabhome/static/css/main.54ffe78b.css.map",
+    "main.f4428931.js.map": "/nexetlabhome/static/js/main.f4428931.js.map",
+    "453.84420719.chunk.js.map": "/nexetlabhome/static/js/453.84420719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ffe78b.css",
+    "static/js/main.f4428931.js"
+  ]
+}
